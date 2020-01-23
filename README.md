@@ -94,7 +94,7 @@ Nhưng do sau này thống kê link nhảy qua trang sản phẩm thấy ít lin
 
 Dựa vào template content mà mình đã viết và chính sửa trước đó để build thành plugin. Và hình bên dưới chính là cái plugin mà mình đã build.
 
-![](img.png)
+![](img.PNG)
 
 Upload CSV sản phẩm và CSV keyword và dựa theo template content mà mình đã chọn. Upload rất nhanh nhưng generate ra content rồi import vào database thì lâu. Hình như gần 1h (không nhớ rỏ nữa) để import xong `100m records`. Script import thì mỗi lần mình cho nó import `1tr records`.
 
